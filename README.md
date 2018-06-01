@@ -4,6 +4,8 @@
 
 ## Build Setup
 
+[在线预览](http://p9mt5uro0.bkt.clouddn.com/index.html)
+
 ``` bash
 # install dependencies
 npm install
